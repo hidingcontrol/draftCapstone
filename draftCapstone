@@ -1,12 +1,26 @@
+Smart-Parking System (ParkMe) for Baguio City, Philippines
+University of the Cordilleras
+Jaylord A. Legaspi
+Master of Information Technology
+
 ***************************************************************************************
 Introduction
 
-Smart-Parking System
 In metropolitan areas, (particularly) parking management influences drivers search time and cost
 for parking spaces, parking revenue, and traffic congestion.  The wide deployment
 of wireless parking meters with sensing and communications capabilities allows
 the parking authority to monitor the state of each parking space in real time and
 optimize the parking management.
+
+***************************************************************************************
+Statement of the Problems
+In this study, the author describes the clear and concise description of the issue(s) that need(s) to be addressed
+through problem solving. Below are the identified problem statements:
+
+> Who will benefit the capstone study and to be represented as Stakeholders?
+> What are the problems encountered during the development and data gathering of the research?
+> Traffic Congestion - Baguio City has becoming a metropolis being the Summer Capital of the Philippines, traffic jams has turned into
+  major problem of the City. 
 
 ***************************************************************************************
 Objectives
